@@ -1,0 +1,29 @@
+
+
+.container{
+	position:relative;
+}
+
+
+.nav-item
+{
+	text-align: center;
+}
+h2{
+	margin:20px;
+	text-align:center;
+}
+
+#chicken
+{
+
+	width:100%;
+	padding:2%;
+
+}
+h3{
+	text-align:center;
+}
+.navbar-brand h1{
+  color: white;
+}
